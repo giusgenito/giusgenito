@@ -19,8 +19,8 @@ I aim to contribute to the community by sharing my learning journey and providin
 ## Projects
 Here are some of the projects you can explore:
 
-### 1. [Project Name]
-A brief description of the project, tools used, and key findings or results. Include a link to the repository.
+### 1. Spoken-Language-Recognition-without-Audio
+A project carried out for the Computer Vision exam, I used a ConvLSTM2D to classify the spoken language in the video. The feature level fusion technique was used to improve the performance compared to students from previous years.
 
 ### 2. [Project Name]
 Another project with its description and a link to the repository.
