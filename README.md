@@ -25,8 +25,8 @@ A project carried out for the Computer Vision exam, I used a ConvLSTM2D to class
 ### 2. Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits
 A project carried out for the Artificial Intelligence exam. I've develop an automated trading algorithm that utilizes Q-learning to make purchasing/selling decisions for financial assets
 
-### 3. [Project Name]
-Include more projects here, summarizing the work and providing repository links.
+### 3. Emotion-Detection-Challenge-on-Twitter
+Project developed for participation in the Hackathon dedicated to Milan Digital Week. It involves the use of the voting technique for sentiment analysis, specifically multiclass classification on texts from tweets
 
 Feel free to browse through my repositories, explore the code, and use them for your own learning or projects!
 
