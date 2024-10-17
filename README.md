@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Welcome to My GitHub Projects
+# Welcome to My GitHub Homepage
 
 ## About Me
 Hello! I'm Giuseppe Genito, a master's student in **Data Science and Machine Learning**. I have a Bachelor's degree in **Statistics for Big Data** from the University of Salerno, Italy. I am passionate about exploring data, building machine learning models, and use IA for solve real word problem.
