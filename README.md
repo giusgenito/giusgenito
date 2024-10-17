@@ -22,8 +22,8 @@ Here are some of the projects you can explore:
 ### 1. Spoken-Language-Recognition-without-Audio
 A project carried out for the Computer Vision exam, I used a ConvLSTM2D to classify the spoken language in the video. The feature level fusion technique was used to improve the performance compared to students from previous years.
 
-### 2. [Project Name]
-Another project with its description and a link to the repository.
+### 2. Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits
+A project carried out for the Artificial Intelligence exam. I've develop an automated trading algorithm that utilizes Q-learning to make purchasing/selling decisions for financial assets
 
 ### 3. [Project Name]
 Include more projects here, summarizing the work and providing repository links.
