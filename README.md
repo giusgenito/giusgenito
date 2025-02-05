@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/giusgenito">Data scientist</a>, <a href="https://github.com/giusgenito">Machine Learning Engineer</a> </h1>
+<h1>Hi, I'm Giuseppe! <br/><a href="https://github.com/giusgenito">Data scientist</a>, <a href="https://github.com/giusgenito">Machine Learning Engineer</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
