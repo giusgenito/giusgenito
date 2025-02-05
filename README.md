@@ -23,6 +23,7 @@
 [linkedin]: www.linkedin.com/in/giuseppe-genito-961a841a7
 
 
-Thank you for visiting my GitHub!
+
+<h2> Thank you for visiting my GitHub! </h2>  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
