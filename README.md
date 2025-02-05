@@ -18,9 +18,10 @@
 
 [<img align="left" alt="Giuseppe Genito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [instagram]: https://www.instagram.com/giuseppegenitoo/
 [linkedin]: www.linkedin.com/in/giuseppe-genito-961a841a7
+
+
 
 
 
