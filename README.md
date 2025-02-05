@@ -12,12 +12,15 @@
 - <b>Data Analysis 📊</b>
   - [Statistics Analysis on mpg dataset](https://github.com/giusgenito/StatisticaEAnalisiDati)
 
+<h2> Thank you for visiting my GitHub! </h2>  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Giuseppe Genito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Giuseppe Genito | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [instagram]: https://www.instagram.com/giuseppegenitoo/
 [linkedin]: www.linkedin.com/in/giuseppe-genito-961a841a7
 
@@ -25,6 +28,5 @@
 
 
 
-<h2> Thank you for visiting my GitHub! </h2>  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
+
