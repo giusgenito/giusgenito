@@ -3,12 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Computer Vision (CV) 📺</b>
-  - [Spoken-Language-Recognition-without-Audio](https://github.com/giusgenito/Spoken-Language-Recognition-without-Audio)
+  - [Spoken Language Recognition without Audio](https://github.com/giusgenito/Spoken-Language-Recognition-without-Audio)
 - <b> Natural Language Processing (NLP) 🗣️ </b>
-  - [Emotion-Detection-on-Twitter Challenge Open Data PlayGround](https://github.com/giusgenito/Emotion-Detection-Challenge-on-Twitter)
+  - [Emotion Detection on Twitter Challenge Open Data PlayGround](https://github.com/giusgenito/Emotion-Detection-Challenge-on-Twitter)
   - [Text-Summarization with mBART](https://github.com/giusgenito/Text-Summarization)
+  - [Classification of European Union Laws into Chapters and Subchapters Open Data PlayGround](https://github.com/giusgenito/ItaDataHack2023)
 - <b> Reinforcement Learning (RL) 🌟 </b>
-  - [Trading-Algorithm-using-Q-learning-to-Maximize-Profits](https://github.com/giusgenito/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
+  - [Trading Algorithm using Q learning to Maximize Profits](https://github.com/giusgenito/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
   - [Statistics Analysis on mpg dataset](https://github.com/giusgenito/StatisticaEAnalisiDati)
 
