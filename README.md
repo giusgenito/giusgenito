@@ -16,7 +16,7 @@
 - <b>Geographic information system (GIS) 🌎</b>
   - [Distributori di carburante a Firenze](https://github.com/giusgenito/Distributori-di-carburante-a-Firenze)
   - [Open Source Web Map with QGIS](https://github.com/giusgenito/Open-Source-Web-Map-with-QGIS)
-- <b>Basi dati 💾</b>
+- <b>Database 💾</b>
   - [MongoDB Interaction Interface using Zara Dataset](https://github.com/giusgenito/MongoDB_Interaction_Interface_using_Zara_Dataset)
 
 <h2> Thank you for visiting my GitHub! </h2>  
