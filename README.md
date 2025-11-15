@@ -3,15 +3,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Computer Vision (CV) 📺</b>
-  - [Dino2-DR: A Trustworthy and Explainable Vision Transformer for Cross-Domain Diabetic Retinopathy Grading](https://github.com/giusgenito/INSERISCI_QUI_IL_LINK_AL_REPO)
-    > This repository contains the official implementation and pretrained models from the paper
-"Dino2-DR: A Trustworthy and Explainable Vision Transformer for Cross-Domain Diabetic Retinopathy Grading",
-accepted at the BISCUIT Workshop @ ICCV 2025.
-    > It includes the full training pipeline and ready-to-use 
-weights for inference under the two evaluation protocols described in 
-the paper:
-    > * **Leave-One-Domain-Out (LODO):** Six models trained on five out of six public diabetic retinopathy datasets (APTOS, DeepDRiD, FGADR, IDRiD, Messidor2, RLDR), each time leaving one domain out for testing.
-    > * **Fixed-Source Multi-Target (FSMT):** A single model trained on the two largest and most diverse datasets, EyePACS and DDR, then evaluated on the six held-out domains.
   - [Spoken Language Recognition without Audio](https://github.com/giusgenito/Spoken-Language-Recognition-without-Audio)
   - [Brain Tumor Semantic Segmentation](https://github.com/giusgenito/Brain_Tumor_Semantic_Segmentation)
 - <b> Natural Language Processing (NLP) 🗣️ </b>
@@ -30,7 +21,7 @@ the paper:
 
 <h2> Thank you for visiting my GitHub! </h2>  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=giusgenito&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
 
 <h2> 🤳 Connect with me:</h2>
 
