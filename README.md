@@ -14,6 +14,8 @@
   - [Emotion Detection on Twitter Challenge Open Data PlayGround](https://github.com/giusgenito/Emotion-Detection-Challenge-on-Twitter)
   - [Text-Summarization with mBART](https://github.com/giusgenito/Text-Summarization)
   - [Classification of European Union Laws into Chapters and Subchapters Open Data PlayGround](https://github.com/giusgenito/ItaDataHack2023)
+- <b>Machine Learning 💾</b>
+  - [Anomaly Detection Logs HDFS](https://github.com/giusgenito/HDFS-Log-Anomaly-Classification)
 - <b> Reinforcement Learning (RL) 🌟 </b>
   - [Trading Algorithm using Q learning to Maximize Profits](https://github.com/giusgenito/Development-of-a-Trading-Algorithm-using-Q-learning-to-Maximize-Profits.)
 - <b>Data Analysis 📊</b>
