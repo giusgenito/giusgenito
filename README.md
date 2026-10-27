@@ -11,7 +11,7 @@ I work on **robust and explainable deep learning for vision**: domain generaliza
 ## 🔬 Publications
 
 - **Manifold-Guided Adversarial Attack of Deepfake Detectors via Dual-Branch Autoencoder Projection**
-  *ACM International Conference on Multimedia (MM '26), 2026* — [doi.org/10.1145/3767308.3837703](https://doi.org/10.1145/3767308.3837703)
+  *ACM International Conference on Multimedia (MM '26), 2026* — )
   DÆLTA, a black-box Latent Transformation Attack built on a dual-branch autoencoder. The solution that won the [ACM AADD Challenge 2026](https://iplab.dmi.unict.it/mfs/acm-aadd-challenge-2026/). I coordinated the team and led the experimental phase.
 
 - **Dino2-DR: A Trustworthy and Explainable Vision Transformer for Cross-Domain Diabetic Retinopathy Grading**
